@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <div style="flex: 1;">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina" alt="GitHub Streak" />
@@ -59,7 +59,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </a>
   </div>
 </div>
-
 
 
 <!-- BLOG-POST-LIST:START -->
