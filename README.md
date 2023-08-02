@@ -47,18 +47,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 </div>
 
-<div style="display: flex;">
-  <div style="flex: ;">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina" alt="GitHub Streak" />
-    </a>
-  </div>
-  <div style="flex: ; ">
-    <a href="https://github.com/Vitalis-Maina/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default" alt="Vitalis's GitHub stats-Light" />
-    </a>
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <a href="https://github.com/Vitalis-Maina/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default" alt="Vitalis's GitHub stats-Light" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
