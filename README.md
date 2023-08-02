@@ -48,19 +48,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 <div style="display: flex;">
-  <div style="flex: 1;">
+  <div style="flex: ;">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina" alt="GitHub Streak" />
     </a>
   </div>
-  <div style="flex: 1; width: 100%;">
+  <div style="flex: ; ">
     <a href="https://github.com/Vitalis-Maina/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default" alt="Vitalis's GitHub stats-Light" />
     </a>
   </div>
 </div>
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+
 
 
 <!-- BLOG-POST-LIST:START -->
