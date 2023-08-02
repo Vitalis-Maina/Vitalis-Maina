@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Vitalis-Maina/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Maina&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
 </div>
@@ -50,20 +50,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <a href="https://github.com/Vitalis-Maina/github-readme-streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina" alt="GitHub Streak" />
       </a>
     </td>
     <td style="width: 50%; text-align: center;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vitalis&show_icons=true&theme=default" alt="Vitalis's GitHub stats-Light" />
+      <a href="https://github.com/Vitalis-Maina/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default" alt="Vitalis's GitHub stats-Light" />
       </a>
     </td>
   </tr>
 </table>
-
-
-
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
