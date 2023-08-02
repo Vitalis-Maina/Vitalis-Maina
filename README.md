@@ -39,12 +39,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   
 </p>
-
----
-
 ### 🔥 &nbsp; My Stats :
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Maina&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
@@ -63,7 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </div>
 </div>
 
----
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
