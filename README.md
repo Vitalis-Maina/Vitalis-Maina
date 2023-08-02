@@ -47,8 +47,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Maina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Vitalis's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Vitalis&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Vitalis-Maina/github-readme-stats#gh-dark-mode-only)
-[![Vitalis's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Vitalis&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Vitalis-Maina/github-readme-stats#gh-light-mode-only)
+[![Vitalis's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=dark)](https://github.com/Vitalis-Maina/github-readme-stats)
+[![Vitalis's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default)](https://github.com/Vitalis-Maina/github-readme-stats)
 
 
 ---
