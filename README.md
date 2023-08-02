@@ -44,27 +44,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Maina&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/Vitalis-Maina/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=dark" alt="Vitalis's GitHub stats-Dark" />
   </a>
 </div>
 
 <div style="display: flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Maina&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/Vitalis-Maina/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default" alt="Vitalis's GitHub stats-Light" />
-  </a>
+  <div style="flex: 1;">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/Vitalis-Maina/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default" alt="Vitalis's GitHub stats-Light" />
+    </a>
+  </div>
 </div>
-
-
 
 ---
 <!-- BLOG-POST-LIST:START -->
