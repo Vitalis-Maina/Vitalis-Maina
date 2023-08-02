@@ -43,12 +43,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Maina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Maina&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/Vitalis-Maina/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=dark" alt="Vitalis's GitHub stats-Dark" />
+  </a>
+</div>
 
-[![Vitalis's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=dark)](https://github.com/Vitalis-Maina/github-readme-stats)
-[![Vitalis's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default)](https://github.com/Vitalis-Maina/github-readme-stats)
+<div style="display: flex;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalis-Maina&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/Vitalis-Maina/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=default" alt="Vitalis's GitHub stats-Light" />
+  </a>
+</div>
+
 
 
 ---
