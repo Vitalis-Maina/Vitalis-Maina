@@ -17,7 +17,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I solve problems on CodeWars and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vitalis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitalis-maina/) &nbsp; [![Twitter Badge](https://img.shields.io/twitter/follow/_vitalis_Maina?label=Vitalis&style=social)](https://twitter.com/_vitalis_Maina)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vitalis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitalis-maina/) &nbsp; [![Twitter Badge](https://img.shields.io/twitter/follow/_vitalis_Maina?label=Vitalis&style=social)](https://twitter.com/_vitalis_Maina)![Website](https://img.shields.io/website?up_message=%09%E2%86%A0&url=https%3A%2F%2Fvitalis-maina.github.io%2F&label=portofolio)
+
 
 
 
