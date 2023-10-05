@@ -19,7 +19,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ In my free time I solve problems on CodeWars and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vitalis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitalis-maina/) &nbsp; [![Twitter Badge](https://img.shields.io/twitter/follow/_vitalis_Maina?label=Vitalis&style=social)](https://twitter.com/_vitalis_Maina)
 
-https://www.codewars.com/users/vitalis1maina/badges/large
+
+![Codewars](https://www.codewars.com/users/vitalis1maina/badges/large)
 
 ---
 
