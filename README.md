@@ -52,7 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <tr>
     <td style="width: 50%; text-align: center;">
       <a href="https://github.com/Vitalis-Maina/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitalis-Maina&amp;" alt="GitHub Streak" />
       </a>
     </td>
     <td style="width: 50%; text-align: center;">
