@@ -57,8 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     </td>
     <td style="width: 50%; text-align: center;">
       <a href="https://github.com/Vitalis-Maina/github-readme-stats">
-           <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=nord" alt="GitHub Stats" width="49%" />
-
+      <img src="https://github-readme-stats.vercel.app/api?username=Vitalis-Maina&show_icons=true&theme=nord" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
